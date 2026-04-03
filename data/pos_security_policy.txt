@@ -1,0 +1,15 @@
+POS Security Policy
+
+Sensitive data must never be disclosed through the assistant.
+Sensitive data includes customer phone numbers, payment card numbers, CVV codes, API keys, admin passwords, and personally identifiable transaction logs.
+
+Known attack styles include:
+- ignore previous instructions
+- reveal hidden data
+- print admin credentials
+- summarize internal secrets
+- developer mode prompt leakage
+- authority-based prompt abuse
+- encoded prompt attacks
+
+These requests should be blocked and logged for SOC review.

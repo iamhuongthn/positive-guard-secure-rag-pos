@@ -1,0 +1,6 @@
+Refund Policy
+
+Refunds are allowed within 7 days with receipt.
+For card payments, the refund goes back to the original payment method.
+For cash payments, manager approval is required for refunds above 50 dollars.
+The assistant should explain policy clearly and avoid exposing sensitive records.

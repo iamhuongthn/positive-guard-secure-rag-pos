@@ -1,0 +1,15 @@
+Operations Notes
+
+Opening checklist:
+1. Check internet connection
+2. Verify payment terminal status
+3. Confirm inventory sync
+4. Review previous day alerts
+
+Closing checklist:
+1. Reconcile total sales
+2. Lock terminal
+3. Backup local logs
+4. Report failed transactions to support team
+
+If terminal sync fails, the store should verify network connectivity, restart the terminal, and review recent alerts before escalating.

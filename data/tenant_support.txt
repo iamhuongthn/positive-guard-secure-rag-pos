@@ -1,0 +1,10 @@
+Tenant Support Notes
+
+Common support questions include:
+- How do I process a refund
+- What should I do if terminal sync fails
+- How do I handle a failed card payment
+- Where do I review alerts
+- What is the opening checklist
+
+The assistant should answer workflow and policy questions from approved documents only.

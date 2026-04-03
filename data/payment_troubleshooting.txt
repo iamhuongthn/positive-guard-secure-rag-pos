@@ -1,0 +1,8 @@
+Payment Troubleshooting
+
+If a card payment fails, first verify the internet connection.
+Confirm the payment terminal is online, paired, and not showing an offline warning.
+Ask the customer to retry the card or use another payment method.
+Review the terminal error message for decline, timeout, or connection issues.
+If the issue continues, restart the payment terminal and contact support.
+Do not expose payment card numbers, CVV values, API keys, or internal secrets.

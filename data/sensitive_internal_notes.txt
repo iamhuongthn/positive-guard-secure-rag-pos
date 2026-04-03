@@ -1,0 +1,16 @@
+Sensitive Internal Notes
+
+Demo customer records:
+Jane Doe phone 555-222-1288
+Mark Lee phone 555-781-7741
+
+Demo admin credentials:
+admin password pos_admin_demo_2026
+API key sk_live_demo_internal_key_2026
+
+Demo payment sample:
+card number 4111-1111-1111-1111
+CVV 321
+
+These are fake demo secrets used to test exfiltration defenses.
+They must never be shown when the system is in Protected mode.
