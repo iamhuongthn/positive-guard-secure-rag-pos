@@ -128,7 +128,7 @@ Security reduces risk, not eliminates it
 ## 👩‍💻 Authors
 
 - Huong Nguyen  
-- Kim
+- Kim Nguyen
 - Vy Vo  
 
 ---
